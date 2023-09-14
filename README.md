@@ -1,2 +1,3 @@
 # SongChioon
-My profile repository
+# Hi there 👋
+
